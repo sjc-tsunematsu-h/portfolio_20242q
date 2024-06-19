@@ -37,3 +37,7 @@ next-env.d.ts
 
 # db
 /db/
+
+# related docker
+docker-compose.yml
+Dockerfile
